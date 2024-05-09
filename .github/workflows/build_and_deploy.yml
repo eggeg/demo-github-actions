@@ -2,7 +2,7 @@ name: Astro Portfolio Demo Build and Deploy
 
 on:
   push:
-    branches: [solution]
+    branches: main
   workflow_dispatch:
 
 permissions:
